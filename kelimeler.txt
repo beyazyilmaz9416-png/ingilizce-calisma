@@ -1,0 +1,162 @@
+agree:katılmak
+answer:cevap vermek
+ask:sormak
+be:olmak
+begin:başlamak
+believe:inanmak
+break:kırmak
+bring:getirmek
+build:inşa etmek
+buy:satın almak
+call:aramak
+cancel:iptal etmek
+choose:seçmek
+close:kapatmak
+come:gelmek
+copy:kopyalamak
+cut:kesmek
+dance:dans etmek
+delete:silmek
+draw:çizmek
+dream:hayal kurmak
+eat:yemek
+end:son
+enter:girmek
+exit:çıkmak
+find:bulmak
+fly:uçmak
+get:elde etmek
+give:vermek
+go:gitmek
+have:sahip olmak
+case:dava
+upper:üst
+lower:daha düşük
+strip:şerit
+replace:yer değiştirmek
+split:bölmek
+know:bilmek
+lie:yalan söylemek
+like:hoşlanmak
+listen:dinlemek
+live:yaşamak
+love:sevmek
+make:yapmak
+open:açmak
+pay:ödemek
+play:oynamak
+pull:çekmek
+put:koymak
+read:okumak
+run:koşmak
+say:söylemek
+see:görmek
+show:göstermek
+sit:oturmak
+speak:konuşmak
+start:başlangıç
+stay:kalmak
+stop:durmak
+swim:yüzmek
+take:almak
+talk:sohbet
+use:kullanmak
+want:istemek
+write:yazmak
+account:muhasebeci
+afraid:korkmuş
+age:yaş
+airplane:uçak
+alone:yalnız
+angry:kızgın
+animal:hayvan
+architect:mimar
+arrive:varmak
+aunt:teyze,hala
+bag:çanta
+ball:top
+bath:banyo
+beautiful:güzel
+bill:fatura
+body:vücut
+boil:kaynamak
+bookstore:kitapçı
+boring:sıkıcı
+borrow:ödünç almak
+boss:patron
+bottle:şişe
+box:kutu
+brave:cesur
+bread:ekmek
+bridge:köprü
+brush:fırçalamak
+butter:tereyağ
+calculator:hesap makinesi
+calendar:takvim
+capital:başkent
+board:tahta
+example:örnek
+old:yaşlı eskimiş
+question:soru
+wait:beklemek
+nearly:neredeyse
+impossible:imkansız
+unfriendly:düşmanca
+blame:suçlamak
+food:yiyecek
+company:şirket
+recently:son zamanlarda
+enough:yeterli
+manager:yönetici
+important:önemli
+protect:korumak
+mistake:hata
+escape:kaçmak
+all:hepsi
+learn:öğrenmek
+carpenter:marangoz
+carpet:halı
+carry:taşımak
+chair:sandalye
+cherry:kiraz
+clear:temizlemek
+clever:akıllı
+cloud:bulut
+cow:inek
+daily:günlük
+dentist:diş hekimi
+dirty:kirli
+finish:bitirmek
+batch:grup
+timesharing:zaman paylaşımı
+multitasking:çoklu görev
+distribute:dağıtmak
+input:veri girişi
+output:çıktı
+process:işlem
+hardware:donanım
+software:yazılım
+logic:lojik
+unit:birim
+path:yol
+task:görev
+network:ağ
+border:sınır
+width:genişlik
+height:yükseklik
+colspan:sütün aralığı
+rowspan:sıra aralığı
+col:sütün
+span:karış
+row:sıra
+align:hizalamak
+right:sağ
+cellspacing:hücre aralığı
+cellpadding:hücre dolgusu
+cell:hücre
+computer:bilgisayar
+based:temelli
+length:uzunluk
+slicing:dilimleme
+concatenation:birleştirme
+result:sonuç
